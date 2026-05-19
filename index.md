@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="profile.jpg">
 
-I am currently a graduate student of M.S. Computer Science at Xiamen University.
+I am currently a graduate student of M.Eng. Computer Science at Xiamen University. 
 
 ## Research Interest
 
