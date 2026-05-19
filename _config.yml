@@ -4,11 +4,11 @@ baseurl: "/website"
 
 remote_theme: ankitsultana/researcher@gem
 markdown: kramdown
-ins_logo: "./xmu.pdf"
+# ins_logo: "./xmu.pdf"
 
 tracking_id: #
 
-footer: yes
+footer: no
 footer_url: "https://github.com/Phyn-L"
 footer_text: "Page design by Philoso"
 
