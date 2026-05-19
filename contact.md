@@ -3,19 +3,17 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
-
-* Phone: [+91-123123](tel:+91-123123)
+* Email: [philoso AT stu DOT xmu DOT edu DOT cn]
 
 ---
 
 ## Mailing Address
 
-> 221B, Baker Street
+> Xiamen University Xiang'an Campus
 >
-> London
+> Xiang'an District, Xiamen, Fujian Province
 >
-> United Kingdom
+> People's Republic of China
 
 ---
 
