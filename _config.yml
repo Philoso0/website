@@ -1,6 +1,6 @@
 title: Zhe Liao (廖 哲)
 url: "https://phyn-l.github.io"
-baseurl: "/zliao"
+baseurl: "/website"
 
 remote_theme: ankitsultana/researcher@gem
 markdown: kramdown
