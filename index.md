@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="profile.jpg">
 
-I am currently a graduate student of M.Eng. Computer Science at Xiamen University, and a photography enthusiast. In an age increasingly awash with AI-generated fabrications, I try to capture and preserve the precious, fleeting moments tucked away in the quiet routines of life.
+I am a graduate student of M.Eng. Computer Science at Xiamen University, and a photography enthusiast. Aga an era increasingly awash with AI-generated fabrications, I try to capture and preserve the precious, fleeting moments tucked away in the quiet routines of life.
 
 ## Research Interest
 
@@ -33,12 +33,7 @@ Here is a horizontal rule
 
 ---
 
-Here is a blockquote
-
 > *Not every turn of life is answered right,*
-
 > *Nor every grief can be brought to light.*
-
 > *Yet still we rise from ruins out of sight,*
-
 > *And learn to find the lamps inside the night.*
