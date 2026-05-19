@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="profile.jpg">
 
-I am currently a graduate student of M.Eng. Computer Science at Xiamen University. 
+I am currently a graduate student of M.Eng. Computer Science at Xiamen University, and a photography enthusiast. In an age increasingly awash with AI-generated fabrications, I try to capture and preserve the precious, fleeting moments tucked away in the quiet routines of life.
 
 ## Research Interest
 
@@ -25,9 +25,9 @@ Here is a table
 
 Year | Award | Category
 -----|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
+2024 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
+2024 | BAFTA | Nominated for Best Leading Actor for Sherlock
+2024 | Satellite | Won Best Actor miniseries or television film
 
 Here is a horizontal rule
 
@@ -42,8 +42,3 @@ Here is a blockquote
 > *Yet still we rise from ruins out of sight,*
 
 > *And learn to find the lamps inside the night.*
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
