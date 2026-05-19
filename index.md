@@ -35,7 +35,10 @@ Here is a horizontal rule
 
 Here is a blockquote
 
-> To a great mind, nothing is little
+> *Not every turn of life is answered right,
+> Nor every grief can be brought to light.
+> Yet still we rise from ruins out of sight,
+> And learn to find the lamps inside the night.*
 
 ## References
 
