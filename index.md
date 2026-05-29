@@ -23,11 +23,11 @@ This is a [link](http://google.com). Something *italics* and something **bold**.
 
 Here is a table
 
-Year | Award | Category
+Year | Award | Detail
 -----|-------|--------
-2024 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2024 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2024 | Satellite | Won Best Actor miniseries or television film
+2025 | National Encouragement Scholarship | Acadamicly ranking 7/106
+2025 | Chinese College Computer Competition | National First Prize
+2024 | National Encouragement Scholarship | Acadamicly ranking 8/106
 
 Here is a horizontal rule
 
