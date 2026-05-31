@@ -13,6 +13,7 @@ I am a graduate student of M.Eng. Computer Science at Xiamen University, and a p
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
 
 ## Education Background
+
 Period | Institute | Major
 -------|-----------|-------
 2022.09-2026.06 | Xiamen University | Artificial Intelligence
