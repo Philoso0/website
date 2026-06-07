@@ -36,7 +36,10 @@ Year | Award | Detail
 2024 | National Encouragement Scholarship | Academically Ranking 9/107 with GPA 3.777/4.0
 
 ---
-- *Not every turn of life is answered right,*
-- *Nor every grief can be brought to light.*
-- *Yet still we rise from ruins out of sight,*
-- *And learn to find the lamps inside the night.*
+> *Not every turn of life is answered right,*
+> 
+> *Nor every grief can be brought to light.*
+> 
+> *Yet still we rise from ruins out of sight,*
+> 
+> *And learn to find the lamps inside the night.*
