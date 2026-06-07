@@ -16,8 +16,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum a
 
 Period | Institute | Major
 -------|-----------|-------
-2022.09-2026.06 | Xiamen University | Artificial Intelligence
 2026.09-2029.06 | Xiamen University | Computer Science and Technology
+2022.09-2026.06 | Xiamen University | Artificial Intelligence
 
 ## Typography
 
