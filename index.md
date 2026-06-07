@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="profile.jpg">
 
-I am a graduate student of M.Eng. Computer Science at Xiamen University, and a photography enthusiast. Aga an era increasingly awash with AI-generated fabrications, I try to capture and preserve the precious, fleeting moments tucked away in the quiet routines of life.
+I am a graduate student of M.Eng. Computer Science at Xiamen University, and a photography enthusiast. Against an era increasingly awash with AI-generated fabrications, I try to capture and preserve the precious, fleeting moments tucked away in the quiet routines of life.
 
 ## Research Interest
 
@@ -24,6 +24,8 @@ Period | Institute | Major
 This is a [link](http://google.com). Something *italics* and something **bold**.
 
 Here is a table
+
+## Awards
 
 Year | Award | Detail
 -----|-------|--------
