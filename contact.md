@@ -9,16 +9,8 @@ is_contact: true
 
 ## Mailing Address
 
-> Xiamen University Xiang'an Campus
+> Room 209, \#5 Building, Xiamen University Xiang'an Campus
 >
 > Xiang'an District, Xiamen, Fujian Province
 >
 > People's Republic of China
-
----
-
-## Social
-
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
