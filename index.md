@@ -29,6 +29,8 @@ Here is a table
 
 Year | Award | Detail
 -----|-------|--------
+2026 | Outstanding Graduate | The top 10% of graduates
+2026 | First-class Academic Scholarship | Academically Ranking 9/106
 2025 | National Encouragement Scholarship | Academically Ranking 7/105 with GPA 3.866/4.0
 2025 | Chinese College Computer Competition | National First Prize (top 2% in national finals)
 2025 | National Software Innovation Competition | Second Prize of East China Division
