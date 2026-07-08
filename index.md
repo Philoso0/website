@@ -6,14 +6,14 @@ layout: default
 
 <img class="profile-picture" src="profile.jpg">
 
-I am a graduate student of M.Eng. Computer Science at **Xiamen University** under the supervise of Prof. [**Liujuan Cao**](https://mac.xmu.edu.cn/ljcao/) and Prof. [**Jiayi Ji**](https://iai.xmu.edu.cn/info/2981/5885.htm). I am also a photography enthusiast and try to capture and preserve the precious, fleeting moments tucked away in the quiet routines of life, against the era increasingly awash with AI-generated fabrications.
+I am a graduate student of M.Eng. Computer Science at [**MAC Lab**](https://mac.xmu.edu.cn/) in [**Xiamen University**](https://xmu.edu.cn/) under the guidance of Prof. [**Liujuan Cao**](https://mac.xmu.edu.cn/ljcao/) and Prof. [**Jiayi Ji**](https://iai.xmu.edu.cn/info/2981/5885.htm). I am also a photography enthusiast and try to capture and preserve the precious, fleeting moments tucked away in the quiet routines of life, against the era increasingly awash with AI-generated fabrications.
 
 ## Research Interest
 
 - Spatial Perception
 - Memory
 
-## Education Background
+## Education Experience
 
 Period | Institute | Major
 -------|-----------|-------
