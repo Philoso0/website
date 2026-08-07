@@ -10,8 +10,8 @@ I am a graduate student of M.Eng. Computer Science at [**MAC Lab**](https://mac.
 
 ## Research Interest
 
-- Spatial Perception
 - Memory
+- Spatial Perception
 
 ## Education Experience
 
